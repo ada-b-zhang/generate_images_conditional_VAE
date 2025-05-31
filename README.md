@@ -1,19 +1,5 @@
-# Model Versions
+# Fashion Image Generator 
 
-## Model 1
-* trained on all data
-* `num_epochs = 5`
-<img width="500" alt="Screenshot 2025-05-28 at 16 53 44" src="https://github.com/user-attachments/assets/6b1cef25-a1fc-4713-bb40-bc23c197f176" />
-<img width="450" alt="Screenshot 2025-05-28 at 17 02 43" src="https://github.com/user-attachments/assets/f3140173-4fbe-43d4-801f-f383e570ca24" />
+  Data is the [Fashion MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
-## Model 2
-* trained on first 100 samples
-* `num_epochs = 10`
-<img width="500" alt="Screenshot 2025-05-28 at 16 53 27" src="https://github.com/user-attachments/assets/3b01b401-19e5-4671-8624-5b4adc4c57fd" />
-<img width="450" alt="Screenshot 2025-05-28 at 17 01 19" src="https://github.com/user-attachments/assets/0fbee952-9c25-43ca-98ef-d8208f921225" />
-
-## Model 3
-* trained on first 100 samples
-* `num_epochs = 50`
-<img width="500" alt="Screenshot 2025-05-28 at 17 22 27" src="https://github.com/user-attachments/assets/7785b08b-753d-4a55-b6f1-174830751d38" />
-<img width="450" alt="Screenshot 2025-05-28 at 17 22 41" src="https://github.com/user-attachments/assets/8e8ce92f-ed88-4e25-a421-eb4835e70f5f" />
+  ![image](https://github.com/user-attachments/assets/6bc8f12f-26f5-4300-8596-0f652accbc8a)
