@@ -1,4 +1,4 @@
-# Fashion Image Generator 
+# Image Generation via Conditional Variational Autoencoders
 
   Data is the [Fashion MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
