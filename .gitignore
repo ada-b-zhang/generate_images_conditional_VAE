@@ -3,3 +3,4 @@ clipart/
 archive/data/
 archive/clipart/
 fashion_mnist_data/
+*.csv
